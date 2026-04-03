@@ -1,3 +1,7 @@
+## Summary
+
+This is a beginner-level AI project about predicting perfume prices using simple features like brand popularity, bottle size, fragrance type, and packaging quality.
+
 # Perfume Price Prediction
 
 This is a beginner-level AI project created as part of the AI Elements course.
